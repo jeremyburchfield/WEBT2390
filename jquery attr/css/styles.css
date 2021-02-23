@@ -1,0 +1,27 @@
+body {
+    background-color: aliceblue;
+}
+
+img {
+    max-width: 100%;
+}
+
+#container {
+    background-color: white;
+    width: 50%;
+    border: 4px solid black;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.thumbs {
+    display: inline-block;
+    width: 20%;
+    margin: 10px;
+}
+
+#slides {
+    text-align: center;
+}
